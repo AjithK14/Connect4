@@ -13,7 +13,7 @@ public class Main extends JFrame
  }
  public static void main(String[] args)
  {
-  JFrame frame = new JFrame("Connect 4: Ajith Kemisetti,Pranav Karthik, Akilesh Mahesh");
+  JFrame frame = new JFrame("Connect 4: Ajith Kemisetti");
          frame.setSize(1000, 1000);
          frame.setLocation(0, 0);
          frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

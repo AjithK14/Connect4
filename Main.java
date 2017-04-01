@@ -9,7 +9,6 @@ public class Main extends JFrame
  public static final int HEIGHT = 1000;
  public Main()
  {
-  new Game1(WIDTH,HEIGHT,
  }
  public static void main(String[] args)
  {
